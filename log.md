@@ -1,13 +1,25 @@
 # 100 Days Of Code - Log
 
 **Link to work:**
-[project](https://github.com/vturrisi/pytorch-journey)
+(secret :wink: )
 
 ### Day 1: Jan 22, 2018
 
 **Today's Progress**:
-- Created a base project to start learning pytorch
-- Forward and backwardprop by 'hand' using pytorch
+- Study of the functionalities of REST API;
+- Study of login methods for Ionic 3;
+- Use of Facebook for developers;
+- Part 1 of the setup of Android enviroment for ionic.
 
 **Info**:
-- Computed loss by hand so that pytorch can perform auto derivative
+- Study
+
+### Day 2: Jan 23, 2018
+
+**Today's Progress**:
+
+**Info**:
+
+
+
+
