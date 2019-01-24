@@ -15,10 +15,19 @@
 **Info**:
 - Study
 
-### Day 2: Jan 24, 2018
+### Day 2: Jan 23, 2018
 
 **Today's Progress**:
 - Part 1/3 of Ionic tutorial [link](https://www.youtube.com/watch?v=CYNZ6QTbB3A&t)
+
+**Info**:
+- Study
+
+
+### Day 3: Jan 24, 2018
+
+**Today's Progress**:
+- Part 2/3 of Ionic tutorial [link](https://www.youtube.com/watch?v=CYNZ6QTbB3A&t)
 
 **Info**:
 - Study
